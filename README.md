@@ -6,11 +6,16 @@ I have learned **HTML, CSS, JavaScript, TypeScript, React, Next.js, Git, and Git
 
 Feel free to connect with me here:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Awsam-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/awsam-esam-684696413/)
 
-[![GitHub Badge](https://img.shields.io/badge/-Awsam-181717?style=flat-square\&logo=github\&logoColor=white\&link=https://github.com/awsamesam)](https://github.com/awsamesam)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square\&logo=facebook\&logoColor=white)](https://www.facebook.com/awsam.esam.7/?locale=ar_AR)
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square\&logo=Gmail\&logoColor=white\&link=mailto\:YOUR_EMAIL@gmail.com)](mailto:YOUR_EMAIL@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/awsam.esam/?hl=ar)
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://web.telegram.org/k/)
+
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/awsamesam)
+
 
 ## ⚡ Technologies
 

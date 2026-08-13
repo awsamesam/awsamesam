@@ -20,6 +20,8 @@ Feel free to connect with me here:
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square\&logo=next.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square\&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github)
 

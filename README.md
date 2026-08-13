@@ -3,6 +3,8 @@
 I am **Awsam**, a Computer Systems Engineering student and a passionate web developer. I enjoy learning new technologies, building projects, and continuously improving my skills.
 
 I have learned **HTML, CSS, JavaScript, TypeScript, React, Next.js, Git, and GitHub**. I am currently learning **Backend Development** and working towards becoming a Full-Stack Developer.
+
+
 Feel free to connect with me here:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/awsam-esam-684696413/)

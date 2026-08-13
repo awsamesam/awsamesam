@@ -3,7 +3,6 @@
 I am **Awsam**, a Computer Systems Engineering student and a passionate web developer. I enjoy learning new technologies, building projects, and continuously improving my skills.
 
 I have learned **HTML, CSS, JavaScript, TypeScript, React, Next.js, Git, and GitHub**. I am currently learning **Backend Development** and working towards becoming a Full-Stack Developer.
-
 Feel free to connect with me here:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/awsam-esam-684696413/)
@@ -11,6 +10,8 @@ Feel free to connect with me here:
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square\&logo=facebook\&logoColor=white)](https://www.facebook.com/awsam.esam.7/?locale=ar_AR)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/awsam.esam/?hl=ar)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:awsamesam21@gmail.com)
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://web.telegram.org/k/)
 
